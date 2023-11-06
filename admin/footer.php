@@ -45,7 +45,7 @@
     </div>
 
     <!-- open/close -->
-        <div class="overlay overlay-hugeinc">
+        <!-- <div class="overlay overlay-hugeinc">
             
             <section class="container">
 
@@ -79,7 +79,7 @@
                 </div>
 
             </section>
-        </div>
+        </div> -->
 
 	<!-- JavaScript-->
         <!-- jQuery 1.9.1--> 

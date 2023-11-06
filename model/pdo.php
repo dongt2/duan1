@@ -12,6 +12,8 @@ function pdo_get_connection(){
         echo "Connection failed: " . $e->getMessage();
     }
 }
+
+//thực thi câu lệnh sql thao tác dữ liệu như (insert into, updata, delete)
 function pdo_execute($sql){
     $sql_args=array_slice(func_get_args(),1);
     try{

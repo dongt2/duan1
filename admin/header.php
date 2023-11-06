@@ -17,19 +17,19 @@
     <!-- Stylesheets -->
 
         <!-- Mobile menu -->
-        <link href="css/gozha-nav.css" rel="stylesheet" />
+        <link href="../css/gozha-nav.css" rel="stylesheet" />
         <!-- Select -->
-        <link href="css/external/jquery.selectbox.css" rel="stylesheet" />
+        <link href="../css/external/jquery.selectbox.css" rel="stylesheet" />
 
         <!-- REVOLUTION BANNER CSS SETTINGS -->
         <link rel="stylesheet" type="text/css" href="../rs-plugin/css/settings.css" media="screen" />
     
         <!-- Custom -->
-        <link href="css/style3860.css?v=1" rel="stylesheet" />
+        <link href="../css/style3860.css?v=1" rel="stylesheet" />
 
 
         <!-- Modernizr --> 
-        <script src="js/external/modernizr.custom.js"></script>
+        <script src="../js/external/modernizr.custom.js"></script>
         <script src="https://kit.fontawesome.com/509cc166d7.js" crossorigin="anonymous"></script>
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap" rel="stylesheet">
     
@@ -43,7 +43,7 @@
     <div class="wrapper">
         <!-- Banner -->
         <div class="banner-top">
-            <img alt='top banner' src="images/bannerr.jpg">
+            <img alt='top banner' src="../images/bannerr.jpg">
         </div>
 
         <!-- Header section -->
@@ -51,7 +51,7 @@
             <div class="container">
                 <!-- Logo link-->
                 <a href='index.html' class="logo">
-                    <img alt='logo' src="images/logo.png">
+                    <img alt='logo' src="../images/logo.png">
                 </a>
                 
                 <!-- Main website navigation-->
@@ -74,7 +74,7 @@
 
                         <li>
                             <span class="sub-nav-toggle plus"></span>
-                            <a href="#">Đặc Trưng</a>
+                            <a href="#">Danh Mục</a>
                         </li>
 
                         <!-- <li>
@@ -84,12 +84,24 @@
 
                         <li>
                             <span class="sub-nav-toggle plus"></span>
-                            <a href="#">Phòng Trưng Bày</a>
+                            <a href="#">List Phim</a>
                         </li>
 
                         <li>
                             <span class="sub-nav-toggle plus"></span>
-                            <a href="#">Mới</a>
+                            <a href="#">Thống Kê</a>
+                        </li>
+                        <li>
+                            <span class="sub-nav-toggle plus"></span>
+                            <a href="#">Thanh Toán</a>
+                        </li>
+                        <li>
+                            <span class="sub-nav-toggle plus"></span>
+                            <a href="#">Bình Luận</a>
+                        </li>
+                        <li>
+                            <span class="sub-nav-toggle plus"></span>
+                            <a href="#">Tài Khoản</a>
                         </li>
 
                         <!-- <li>
@@ -100,8 +112,8 @@
                 </nav>
                 
                 <!-- Additional header buttons / Auth and direct link to booking-->
-                <div class="control-panel">
-                    <!-- <div class="auth auth--home">
+                <!-- <div class="control-panel">
+                    <div class="auth auth--home">
                       <div class="auth__show">
                         <span class="auth__image">
                           <img alt="" src="../images/client-photo/auth.png">
@@ -115,13 +127,13 @@
                             <li><a href="../login.html" class="auth__function-item">đăng ký</a></li>
                         </ul>
 
-                    </div> -->
+                    </div>
                     <div class="btn btn-md btn--warning btn--book btn-control--home login-window">
                         <span>
                        <a href="index.php?act=dangky " class="auth__function-item login-window">Đăng Nhập</a>
                         </span>
                     </div>
                     <a href="#" class="btn btn-md btn--warning btn--book btn-control--home login-window">Đặt Vé</a>
-                </div>
+                </div> -->
             </div>
         </header>
