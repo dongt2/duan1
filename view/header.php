@@ -17,19 +17,19 @@
     <!-- Stylesheets -->
 
         <!-- Mobile menu -->
-        <link href="../css/gozha-nav.css" rel="stylesheet" />
+        <link href="css/gozha-nav.css" rel="stylesheet" />
         <!-- Select -->
-        <link href="../css/external/jquery.selectbox.css" rel="stylesheet" />
+        <link href="css/external/jquery.selectbox.css" rel="stylesheet" />
 
         <!-- REVOLUTION BANNER CSS SETTINGS -->
         <link rel="stylesheet" type="text/css" href="../rs-plugin/css/settings.css" media="screen" />
     
         <!-- Custom -->
-        <link href="../css/style3860.css?v=1" rel="stylesheet" />
+        <link href="css/style3860.css?v=1" rel="stylesheet" />
 
 
         <!-- Modernizr --> 
-        <script src="../js/external/modernizr.custom.js"></script>
+        <script src="js/external/modernizr.custom.js"></script>
     
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries --> 
     <!--[if lt IE 9]> 
@@ -41,7 +41,7 @@
     <div class="wrapper">
         <!-- Banner -->
         <div class="banner-top">
-            <img alt='top banner' src="../images/bannerr.jpg">
+            <img alt='top banner' src="images/bannerr.jpg">
         </div>
 
         <!-- Header section -->
@@ -49,7 +49,7 @@
             <div class="container">
                 <!-- Logo link-->
                 <a href='index.html' class="logo">
-                    <img alt='logo' src="../images/logo.png">
+                    <img alt='logo' src="images/logo.png">
                 </a>
                 
                 <!-- Main website navigation-->
@@ -116,11 +116,10 @@
                     </div> -->
                     <div class="btn btn-md btn--warning btn--book btn-control--home login-window">
                         <span>
-                       <a href="../login.html" class="auth__function-item login-window">Đăng Nhập</a>
+                       <a href="index.php?act=dangky " class="auth__function-item login-window">Đăng Nhập</a>
                         </span>
                     </div>
                     <a href="#" class="btn btn-md btn--warning btn--book btn-control--home login-window">Đặt Vé</a>
                 </div>
-
             </div>
         </header>
