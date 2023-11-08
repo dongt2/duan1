@@ -1,4 +1,5 @@
 <form id="login-form" class="login" method='get' novalidate='' enctype="multipart/form-data">
+    <br><br><br>
                     <p class="login__title">đăng ký <br></p>
 
                     

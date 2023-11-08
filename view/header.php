@@ -27,6 +27,11 @@
         <!-- Custom -->
         <link href="css/style3860.css?v=1" rel="stylesheet" />
 
+         <!-- Swiper slider -->
+         <link href="css/external/idangerous.swiper.css" rel="stylesheet" />
+
+        <!-- Magnific-popup -->
+        <link href="css/external/magnific-popup.css" rel="stylesheet" />
 
         <!-- Modernizr --> 
         <script src="js/external/modernizr.custom.js"></script>
