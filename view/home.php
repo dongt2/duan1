@@ -59,6 +59,7 @@
 
                                     <p class="movie__option"><a href="#">'.$theloai.'</p>
                                     
+                                    
                                 </div>
                             </div>';
                             }

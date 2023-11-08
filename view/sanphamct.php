@@ -1,21 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
-        .container{
-            width: 90%;
-            margin: 0 auto;
-
-        }
-    </style>
-</head>
-<body>
-    
-</body>
-</html>
 <section class="container">
             <div class="col-sm-12">
                 <div class="movie">
@@ -43,27 +25,27 @@
                             <p class="movie__option"><strong>Age restriction: </strong><a href="#">13</a></p>
                             <p class="movie__option"><strong>Box office: </strong><a href="#">$1 017 003 568</a></p>
 
-                            <a href="#" class="comment-link">Comments:  15</a>
+                            <!-- <a href="#" class="comment-link">Comments:  15</a> -->
 
                             <div class="movie__btns movie__btns--full">
                                 <a href="#" class="btn btn-md btn--warning">book a ticket for this movie</a>
                                 <a href="#" class="watchlist">Add to watchlist</a>
                             </div>
 
-                            <div class="share">
+                            <!-- <div class="share">
                                 <span class="share__marker">Share: </span>
                                 <div class="addthis_toolbox addthis_default_style ">
                                     <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
                                     <a class="addthis_button_tweet"></a>
                                     <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                     
                     <div class="clearfix"></div>
                     
-                    <h2 class="page-heading">Chi Tiết Sản Phẩm</h2>
+                    <h2 class="page-heading">Mô Tả</h2>
 
                     <p class="movie__describe">Bilbo Baggins is swept into a quest to reclaim the lost Dwarf Kingdom of Erebor from the fearsome dragon Smaug. Approached out of the blue by the wizard Gandalf the Grey, Bilbo finds himself joining a company of thirteen dwarves led by the legendary warrior, Thorin Oakenshield. Their journey will take them into the Wild; through treacherous lands swarming with Goblins and Orcs, deadly Wargs and Giant Spiders, Shapeshifters and Sorcerers. Although their goal lies to the East and the wastelands of the Lonely Mountain first they must escape the goblin tunnels, where Bilbo meets the creature that will change his life forever ... Gollum. Here, alone with Gollum, on the shores of an underground lake, the unassuming Bilbo Baggins not only discovers depths of guile and courage that surprise even him, he also gains possession of Gollum's "precious" ring that holds unexpected and useful qualities ... A simple, gold ring that is tied to the fate of all Middle-earth in ways Bilbo cannot begin to ... </p>
 
@@ -80,70 +62,70 @@
                               <!--First Slide-->
                               <div class="swiper-slide media-video">
                                 <a href='https://www.youtube.com/watch?v=Y5AehBA3IsE' class="movie__media-item ">
-                                     <img alt='' src="images/movie/movie-video1.jpg">
+                                     <img alt='' src="images/movie/movie-video1.jpg" width="200">
                                 </a>
                               </div>
                               
                               <!--Second Slide-->
                               <div class="swiper-slide media-video">
                                 <a href='https://www.youtube.com/watch?v=Kb3ykVYvT4U' class="movie__media-item">
-                                    <img alt='' src="images/movie/movie-video2.jpg">
+                                    <img alt='' src="images/movie/movie-video2.jpg" width="200">
                                 </a>
                               </div>
                               
                               <!--Third Slide-->
                               <div class="swiper-slide media-photo"> 
                                     <a href='images/movie/movie-img1-lg.jpg' class="movie__media-item">
-                                        <img alt='' src="images/movie/movie-img1.jpg">
+                                        <img alt='' src="images/movie/movie-img1.jpg" width="200">
                                      </a>
                               </div>
 
                               <!--Four Slide-->
                               <div class="swiper-slide media-photo"> 
                                     <a href='images/movie/movie-img2-lg.jpg' class="movie__media-item">
-                                        <img alt='' src="images/movie/movie-img2.jpg">
+                                        <img alt='' src="images/movie/movie-img2.jpg" width="200">
                                      </a>
                               </div>
 
                               <!--Slide-->
                               <div class="swiper-slide media-photo"> 
                                     <a href='images/gallery/large/item-7.jpg' class="movie__media-item">
-                                        <img alt='' src="images/movie/movie-img3.jpg">
+                                        <img alt='' src="images/movie/movie-img3.jpg" width="200">
                                      </a>
                               </div>
 
                               <!--Slide-->
                               <div class="swiper-slide media-photo"> 
                                     <a href='images/gallery/large/item-11.jpg' class="movie__media-item">
-                                        <img alt='' src="images/movie/movie-img4.jpg">
+                                        <img alt='' src="images/movie/movie-img4.jpg" width="200">
                                      </a>
                               </div>
 
                               <!--First Slide-->
                               <div class="swiper-slide media-video">
                                 <a href='https://www.youtube.com/watch?v=Y5AehBA3IsE' class="movie__media-item ">
-                                     <img alt='' src="images/movie/movie-video1.jpg">
+                                     <img alt='' src="images/movie/movie-video1.jpg" width="200">
                                 </a>
                               </div>
                               
                               <!--Second Slide-->
                               <div class="swiper-slide media-video">
                                 <a href='https://www.youtube.com/watch?v=Kb3ykVYvT4U' class="movie__media-item">
-                                    <img alt='' src="images/movie/movie-video2.jpg">
+                                    <img alt='' src="images/movie/movie-video2.jpg" width="200">
                                 </a>
                               </div>
 
                               <!--Slide-->
                               <div class="swiper-slide media-photo"> 
                                     <a href='images/gallery/large/item-15.jpg' class="movie__media-item">
-                                        <img alt='' src="images/movie/movie-img5.jpg">
+                                        <img alt='' src="images/movie/movie-img5.jpg" width="200">
                                      </a>
                               </div>
 
                               <!--Slide-->
                               <div class="swiper-slide media-photo"> 
                                     <a href='images/gallery/large/item-16.jpg' class="movie__media-item">
-                                        <img alt='' src="images/movie/movie-img6.jpg">
+                                        <img alt='' src="images/movie/movie-img6.jpg" width="200">
                                      </a>
                               </div>
                         
@@ -154,11 +136,11 @@
 
                 </div>
 
-                <h2 class="page-heading">showtime &amp; tickets</h2>
+                <h2 class="page-heading">Thời Gian &amp; Cơ Sở</h2>
                 <div class="choose-container">
                     <form id='select' class="select" method='get'>
                           <select name="select_item" id="select-sort" class="select__sort" tabindex="0">
-                            <option value="1" selected='selected'>London</option>
+                            <option value="1" selected='selected'>Hà Nội</option>
                             <option value="2">New York</option>
                             <option value="3">Paris</option>
                             <option value="4">Berlin</option>
@@ -181,7 +163,7 @@
                     <div class="time-select">
                         <div class="time-select__group group--first">
                             <div class="col-sm-4">
-                                <p class="time-select__place">Cineworld</p>
+                                <p class="time-select__place">Nhánh 1</p>
                             </div>
                             <ul class="col-sm-8 items-wrap">
                                 <li class="time-select__item" data-time='09:40'>09:40</li>
@@ -194,7 +176,7 @@
 
                         <div class="time-select__group">
                             <div class="col-sm-4">
-                                <p class="time-select__place">Empire</p>
+                                <p class="time-select__place">Nhánh 1</p>
                             </div>
                             <ul class="col-sm-8 items-wrap">
                                 <li class="time-select__item" data-time='10:45'>10:45</li>
@@ -207,7 +189,7 @@
 
                         <div class="time-select__group">
                             <div class="col-sm-4">
-                                <p class="time-select__place">Curzon</p>
+                                <p class="time-select__place">Nhánh 1</p>
                             </div>
                             <ul class="col-sm-8 items-wrap">
                                 <li class="time-select__item" data-time='09:00'>09:00</li>
@@ -224,7 +206,7 @@
 
                         <div class="time-select__group">
                             <div class="col-sm-4">
-                                <p class="time-select__place">Odeon</p>
+                                <p class="time-select__place">Nhánh 1</p>
                             </div>
                             <ul class="col-sm-8 items-wrap">
                                 <li class="time-select__item" data-time='10:45'>10:45</li>
@@ -237,7 +219,7 @@
 
                         <div class="time-select__group group--last">
                             <div class="col-sm-4">
-                                <p class="time-select__place">Picturehouse</p>
+                                <p class="time-select__place">Nhánh 1</p>
                             </div>
                             <ul class="col-sm-8 items-wrap">
                                 <li class="time-select__item" data-time='17:45'>17:45</li>
@@ -269,6 +251,3 @@
             </div>
 
         </section>
-        <?php
-            include "view/footer.php";
-        ?>
