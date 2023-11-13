@@ -7,32 +7,7 @@
     if(isset($_GET['act'])&&($_GET['act']!="")){
         $act=$_GET['act'];
         switch($act){
-            case "dangky":
-                if(isset($_POST['submit']) && ($_POST['submit']!="")){
-                        $tentaikhoan = $_POST['tentaikhoan'];
-                        $sdt = $_POST['sdt'];
-                        $email = $_POST['email'];
-                        $password = $_POST['password'];
-                        insert_taikhoan($tentaikhoan,$sdt,$email,$password);
-                        $thongbao="Đăng ký thành công";
-                }
-                include "dangky.php";
-                break;
-            case "dangnhap": 
-                if (isset($_POST['submit'])) {
-                    $loginMess = dangnhap($_POST['user-email'], $_POST['user-password']);
-                    include "view/footer.php";
-                    alert('Xin chào! Đây là thông báo từ .');
-                }
-                break;
-            case "quenmk":
-                if (isset($_POST['guiemail'])) {
-                    $email = $_POST['email'];
-                    $sendMailMess = sendMail($email);
-                }
-                include "view/login/quenmk.php";
-                break;
-        }        
+            
     }else{
             include "view/home.php";
         }
