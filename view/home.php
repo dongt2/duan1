@@ -1,10 +1,10 @@
-        <!-- Slider -->
-            <div class="bannercontainer">
+<!-- Slider -->
+<div class="bannercontainer">
                     <div class="banner">
                         <ul>
 
                             <li data-transition="fade" data-slotamount="7" class="slide" data-slide='Rush.'>
-                                <img alt='' src="../images/slides/first-slide.jpg">
+                                <img alt='' src="images/slides/first-slide.jpg">
                                 <div class="caption slide__name margin-slider" 
                                      data-x="right" 
                                      data-y="80" 
@@ -127,10 +127,10 @@
 Create trip film.'>
                                 <img alt='' src="images/bg-video.jpg">
                                  <div class="caption slide__video" data-x="0" data-y="0" data-autoplay='true'>
-                                   <video class="media-element"  autoplay="autoplay" preload='none' loop="loop" muted="" src="../video/TravelIs.mp4" >
-                                        <source type="video/webm" src="../video/TravelIs.html">
-                                        <source type="video/mp4" src="../video/TravelIs.mp4">
-                                        <source type="video/ogg" src="../video/TravelIs-2.html">
+                                   <video class="media-element"  autoplay="autoplay" preload='none' loop="loop" muted="" src="video/TravelIs.mp4" >
+                                        <source type="video/webm" src="video/TravelIs.html">
+                                        <source type="video/mp4" src="video/TravelIs.mp4">
+                                        <source type="video/ogg" src="video/TravelIs-2.html">
                                     </video>
                                   </div>
 
@@ -235,7 +235,7 @@ Create trip film.'>
 
                             <li data-transition="fade" data-slotamount="7" class="slide" data-slide='Stop wishing. 
 Start doing.'>
-                                <img alt='' src="../images/slides/next-slide.jpg">
+                                <img alt='' src="images/slides/next-slide.jpg">
                                  <div class="caption slide__name slide__name--smaller slide__name--specific customin customout" 
                                      data-x="left" 
                                      data-y="160" 
@@ -294,32 +294,32 @@ Start doing.'>
                  <div class="col-sm-10 col-sm-offset-1 movie-best__rating">Today Best choice</div>
                  <div class="col-sm-12 change--col">
                      <div class="movie-beta__item ">
-                        <img alt='' src="../images/movie/movie-sample1.jpg">
+                        <img alt='' src="images/movie/movie-sample1.jpg">
                          <span class="best-rate">5.0</span>
                      </div>
 
                      <div class="movie-beta__item second--item">
-                         <img alt='' src="../images/movie/movie-sample2.jpg">
+                         <img alt='' src="images/movie/movie-sample2.jpg">
                          <span class="best-rate">5.0</span>
                      </div>
 
                      <div class="movie-beta__item third--item">
-                         <img alt='' src="../images/movie/movie-sample3.jpg">
+                         <img alt='' src="images/movie/movie-sample3.jpg">
                          <span class="best-rate">5.0</span>
                      </div>
 
                      <div class="movie-beta__item hidden-xs">
-                         <img alt='' src="../images/movie/movie-sample4.jpg">
+                         <img alt='' src="images/movie/movie-sample4.jpg">
                          <span class="best-rate">5.0</span>
                      </div>
 
                      <div class="movie-beta__item hidden-xs hidden-sm">
-                         <img alt='' src="../images/movie/movie-sample5.jpg">
+                         <img alt='' src="images/movie/movie-sample5.jpg">
                          <span class="best-rate">5.0</span>
                      </div>
 
                      <div class="movie-beta__item hidden-xs hidden-sm">
-                         <img alt='' src="../images/movie/movie-sample6.jpg">
+                         <img alt='' src="images/movie/movie-sample6.jpg">
                          <span class="best-rate">5.0</span>
                      </div>
 
@@ -448,7 +448,7 @@ Start doing.'>
                             <div class="movie movie--test movie--test--dark movie--test--left">
                                 <div class="movie__images">
                                     <a href="movie-page-left.html" class="movie-beta__link">
-                                        <img alt='' src="../images/movie/movie-time8.jpg">
+                                        <img alt='' src="images/movie/movie-time8.jpg">
                                     </a>
                                 </div>
 
@@ -467,7 +467,7 @@ Start doing.'>
                             <div class="movie movie--test movie--test--light movie--test--left">
                                 <div class="movie__images">
                                     <a href="movie-page-left.html" class="movie-beta__link">
-                                    <img alt='' src="../images/movie/movie-time1.jpg">
+                                    <img alt='' src="images/movie/movie-time1.jpg">
                                     </a>
                                 </div>
 
@@ -483,10 +483,10 @@ Start doing.'>
                          <!-- Movie variant with time -->
 
                          <!-- Movie variant with time -->
-                            <div class="movie movie--test movie--test--light movie--test--right">
+                            <!-- <div class="movie movie--test movie--test--light movie--test--right">
                                 <div class="movie__images">
                                     <a href="movie-page-left.html" class="movie-beta__link">
-                                    <img alt='' src="../images/movie/movie-time9.jpg">
+                                    <img alt='' src="images/movie/movie-time9.jpg">
                                     </a>
                                 </div>
 
@@ -498,14 +498,14 @@ Start doing.'>
                                     <p class="movie__option"><a href="#">Action</a> | <a href="#">Adventure</a> | <a href="#">Sci-Fi</a></p>
                                     
                                 </div>
-                            </div>
+                            </div> -->
                          <!-- Movie variant with time -->
 
                          <!-- Movie variant with time -->
-                            <div class="movie movie--test movie--test--dark movie--test--right">
+                            <!-- <div class="movie movie--test movie--test--dark movie--test--right">
                                 <div class="movie__images">
                                     <a href="movie-page-left.html" class="movie-beta__link">
-                                    <img alt='' src="../images/movie/movie-time10.jpg">
+                                    <img alt='' src="images/movie/movie-time10.jpg">
                                     </a>
                                 </div>
 
@@ -517,14 +517,14 @@ Start doing.'>
                                     <p class="movie__option"><a href="#">Action</a> | <a href="#">Adventure</a> | <a href="#">Fantasy</a></p>
                                     
                                 </div>
-                            </div>
+                            </div> -->
                          <!-- Movie variant with time -->
 
                          <!-- Movie variant with time -->
-                            <div class="movie movie--test movie--test--dark movie--test--left">
+                            <!-- <div class="movie movie--test movie--test--dark movie--test--left">
                                 <div class="movie__images">
                                     <a href="movie-page-left.html" class="movie-beta__link">
-                                    <img alt='' src="../images/movie/movie-time11.jpg">
+                                    <img alt='' src="images/movie/movie-time11.jpg">
                                     </a>
                                 </div>
 
@@ -536,14 +536,14 @@ Start doing.'>
                                     <p class="movie__option"><a href="#">Action</a> | <a href="#">Adventure</a> | <a href="#">Horror</a></p>
                                     
                                 </div>
-                            </div>
+                            </div> -->
                          <!-- Movie variant with time -->
 
                          <!-- Movie variant with time -->
-                            <div class="movie movie--test movie--test--light movie--test--left">
+                            <!-- <div class="movie movie--test movie--test--light movie--test--left">
                                 <div class="movie__images">
                                     <a href="movie-page-full.html" class="movie-beta__link">
-                                    <img alt='' src="../images/movie/movie-time12.jpg">
+                                    <img alt='' src="images/movie/movie-time12.jpg">
                                     </a>
                                 </div>
 
@@ -555,14 +555,14 @@ Start doing.'>
                                     <p class="movie__option"><a href="#">Crime</a> | <a href="#">Thriller</a> | <a href="#">Drama</a></p>
                                     
                                 </div>
-                            </div>
+                            </div> -->
                          <!-- Movie variant with time -->
 
                          <!-- Movie variant with time -->
-                            <div class="movie movie--test movie--test--light movie--test--right">
+                            <!-- <div class="movie movie--test movie--test--light movie--test--right">
                                 <div class="movie__images">
                                     <a href="movie-page-full.html" class="movie-beta__link">
-                                    <img alt='' src="../images/movie/movie-time13.jpg">
+                                    <img alt='' src="images/movie/movie-time13.jpg">
                                     </a>
                                 </div>
 
@@ -574,14 +574,14 @@ Start doing.'>
                                     <p class="movie__option"><a href="#">Comedy</a> | <a href="#">Fantasy</a></p>
                                     
                                 </div>
-                            </div>
+                            </div> -->
                          <!-- Movie variant with time -->
 
                          <!-- Movie variant with time -->
-                            <div class="movie movie--test movie--test--dark movie--test--right">
+                            <!-- <div class="movie movie--test movie--test--dark movie--test--right">
                                 <div class="movie__images">
                                     <a href="movie-page-left.html" class="movie-beta__link">
-                                    <img alt='' src="../images/movie/movie-time14.jpg">
+                                    <img alt='' src="images/movie/movie-time14.jpg">
                                     </a>
                                 </div>
 
@@ -593,7 +593,7 @@ Start doing.'>
                                     <p class="movie__option"><a href="#">Comedy</a></p>
                             
                                 </div>
-                            </div>
+                            </div> -->
                          <!-- Movie variant with time -->
 
                         </div>
@@ -604,7 +604,60 @@ Start doing.'>
                     </aside>
                 </div>
             </div>
+
+            
+                <h2 class="page-heading">Latest news</h2>
+
+                <div class="col-sm-4 similar-wrap col--remove">
+                    <div class="post post--preview post--preview--wide">
+                        <div class="post__image">
+                            <img alt='' src="images/client-photo/post-thor.jpg">
+                            <div class="social social--position social--hide">
+                                <span class="social__name">Share:</span>
+                                <a href='#' class="social__variant social--first fa fa-facebook"></a>
+                                <a href='#' class="social__variant social--second fa fa-twitter"></a>
+                                <a href='#' class="social__variant social--third fa fa-vk"></a>
+                            </div>
+                        </div>
+                        <p class="post__date">22 October 2013 </p>
+                        <a href="single-page-left.html" class="post__title">"Thor: The Dark World" - World Premiere</a>
+                        <a href="single-page-left.html" class="btn read-more post--btn">read more</a>
+                    </div>
+                </div>
+                <div class="col-sm-4 similar-wrap col--remove">
+                    <div class="post post--preview post--preview--wide">
+                        <div class="post__image">
+                            <img alt='' src="images/client-photo/post-annual.jpg">
+                            <div class="social social--position social--hide">
+                                <span class="social__name">Share:</span>
+                                <a href='#' class="social__variant social--first fa fa-facebook"></a>
+                                <a href='#' class="social__variant social--second fa fa-twitter"></a>
+                                <a href='#' class="social__variant social--third fa fa-vk"></a>
+                            </div>
+                        </div>
+                        <p class="post__date">22 October 2013 </p>
+                        <a href="single-page-left.html" class="post__title">30th Annual Night Of Stars Presented By The Fashion Group International</a>
+                        <a href="single-page-left.html" class="btn read-more post--btn">read more</a>
+                    </div>
+                </div>
+                <div class="col-sm-4 similar-wrap col--remove">
+                    <div class="post post--preview post--preview--wide">
+                        <div class="post__image">
+                            <img alt='' src="images/client-photo/post-awards.jpg">
+                            <div class="social social--position social--hide">
+                                <span class="social__name">Share:</span>
+                                <a href='#' class="social__variant social--first fa fa-facebook"></a>
+                                <a href='#' class="social__variant social--second fa fa-twitter"></a>
+                                <a href='#' class="social__variant social--third fa fa-vk"></a>
+                            </div>
+                        </div>
+                        <p class="post__date">22 October 2013 </p>
+                        <a href="single-page-left.html" class="post__title">Hollywood Film Awards 2013</a>
+                        <a href="single-page-left.html" class="btn read-more post--btn">read more</a>
+                    </div>
+                </div>
             </div>
                 
         </section>
         
+        <div class="clearfix"></div>

@@ -1,11 +1,19 @@
 <!doctype html>
 <html>
 
+<!-- Mirrored from amovie.gozha.net/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 01 Nov 2023 12:56:49 GMT -->
+<head>
+	<!-- Basic Page Needs -->
         <meta charset="utf-8">
-        <title>Movie</title>
+        <title>AMovie</title>
         <meta name="description" content="A Template by Gozha.net">
         <meta name="keywords" content="HTML, CSS, JavaScript">
-        <meta name="author" content="Gozha.net"> 
+        <meta name="author" content="Gozha.net">
+    
+    <!-- Mobile Specific Metas-->
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta content="telephone=no" name="format-detection">
+    
     <!-- Fonts -->
         <!-- Font awesome - icon font -->
         <link href="../netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
@@ -37,6 +45,7 @@
 		<script src="http://cdnjs.cloudflare.com/ajax/libs/respond.js/1.3.0/respond.js"></script>		
     <![endif]-->
 </head>
+
 <body>
     <div class="wrapper">
         <!-- Banner -->
@@ -89,6 +98,14 @@
                             <span class="sub-nav-toggle plus"></span>
                             <a href="#">Mới</a>
                         </li>
+                        <li>
+                            <span class="sub-nav-toggle plus"></span>
+                            <a href="#">Login</a>
+                            <ul class="auth__function">
+                                <li><a href="#" class="auth__function-item login-window">đăng nhập</a></li>
+                                <li><a href="dangky.php" class="auth__function-item">đăng ký</a></li>
+                            </ul>
+                        </li>
 
                         <!-- <li>
                             <span class="sub-nav-toggle plus"></span>
@@ -99,25 +116,17 @@
                 
                 <!-- Additional header buttons / Auth and direct link to booking-->
                 <div class="control-panel">
-                    <!-- <div class="auth auth--home">
+                    <div class="auth auth--home">
                       <div class="auth__show">
                         <span class="auth__image">
-                          <img alt="" src="../images/client-photo/auth.png">
+                          <img alt="" src="images/client-photo/auth.png">
                         </span>
                       </div>
                       <a href="#" class="btn btn--sign btn--singin">
                           me
                       </a>
-                        <ul class="auth__function">
-                            <li><a href="#" class="auth__function-item login-window">đăng nhập</a></li>
-                            <li><a href="../login.html" class="auth__function-item">đăng ký</a></li>
-                        </ul>
+                        
 
-                    </div> -->
-                    <div class="btn btn-md btn--warning btn--book btn-control--home login-window">
-                        <span>
-                       <a href="login.html" class="auth__function-item login-window">Đăng Nhập</a>
-                        </span>
                     </div>
                     <a href="#" class="btn btn-md btn--warning btn--book btn-control--home login-window">Đặt Vé</a>
                 </div>
